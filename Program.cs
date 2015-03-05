@@ -7,7 +7,7 @@ namespace UserInfo
     static class Program
     {
         /// <summary>
-        /// The application's main entry point.
+        /// The application's main entry point.123
         /// </summary>
         [STAThread]
         static void Main()
